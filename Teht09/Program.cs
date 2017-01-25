@@ -10,7 +10,17 @@ namespace Teht09
     {
         static void Main(string[] args)
         {
-            hgwsehyrwshedsa
+            Console.WriteLine("Anna Luku ");
+            int luku;
+            luku = int.Parse(Console.ReadLine());
+            int sum;
+            sum = 
+            
+            if (luku > 0)
+            {
+                Console.WriteLine("Anna uusi luku");
+            }
+            else (Console.WriteLine("lukujen summa " + sum);
         }
     }
 }
