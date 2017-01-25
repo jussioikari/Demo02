@@ -10,7 +10,7 @@ namespace Teht09
     {
         static void Main(string[] args)
         {
-
+            hgwsehyrwshedsa
         }
     }
 }
